@@ -1,10 +1,10 @@
-## Automated Data Extraction and Invoice Management
+# Automated Data Extraction and Invoice Management
 Develop a React application for Swipe that automates the extraction, processing, and
 management of invoices data from various file formats. The app should organize the extracted
 data into three main sections: Invoices, Products, and Customers, and synchronize changes in
 real-time using Redux for consistent updates across tabs.
 
-# Assignment Requirements:
+## Assignment Requirements:
 1. File Uploads, AI-Powered Data Extraction, and Organization
 - Accept different types of Input files including:
 - Excel files: Contains transaction details (serial number, net/total amount, customer info).
